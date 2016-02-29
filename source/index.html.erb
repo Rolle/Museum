@@ -1,0 +1,54 @@
+<div role="main" class="ui-content" data-role="content">
+
+    <form id="goto" action="" method="">
+        <label for="numbertag" style="text-align: center">Station:</label>
+        <input id="numbertag" name="numbertag" type="text" value="" placeholder="Station" autocomplete="off">                        
+        <button class="ui-btn ui-icon-navigation ui-btn-icon-left ui-corner-all" type="submit">Anzeigen</button>
+    </form>
+
+</div>
+
+<div data-role="footer" data-position="fixed">
+        <a class="ui-btn ui-icon-info ui-btn-icon-left ui-corner-all" data-rel="popup" data-position-to="window" href="#popupDialogHilfe">Hilfe</a>
+</div>
+
+<div data-role="popup" id="popupDialogHilfe" data-dismissible="false" style="max-width:400px;">
+    <div data-role="header">
+        <h1>Hilfe</h1>
+    </div>
+    <div role="main" class="ui-content">
+        <h3 class="ui-title">In dem Eingabefeld können die Markierungen auf den QR-Codes. Dadurch gelangt man zu der entsprechenden Seite mit weiteren Informationen. </h3>
+        <a href="#" class="ui-btn ui-corner-all ui-btn-inline" data-rel="back">OK</a>
+    </div>
+</div>
+
+<div data-role="popup" id="popupDialog" data-dismissible="false" style="max-width:400px;">
+    <div data-role="header">
+        <h1>Unbekannte Nummer!</h1>
+    </div>
+    <div role="main" class="ui-content">
+        <h3 class="ui-title">Die eingegebene Stations-Nummer konnte nicht gefunden werden!</h3>
+        <a href="#" class="ui-btn ui-corner-all ui-btn-inline" data-rel="back">OK</a>
+    </div>
+</div>
+
+<script>
+    $(function() {
+        numbers_to_pages = {};
+
+        numbers_to_pages[100] = "pages/saegeblatt.html";
+        numbers_to_pages[200] = "pages/pressluft.html";
+        numbers_to_pages[300] = "pages/tradition.html";
+
+        $('#goto').on('submit',function(e){
+            e.preventDefault();
+            number = $('#numbertag')[0].value
+            if (numbers_to_pages[number] !== undefined) {
+                $.mobile.navigate(numbers_to_pages[number]);
+            } else {
+                $('#popupDialog').popup('open');
+            }
+
+        });
+    });
+</script>

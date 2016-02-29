@@ -1,0 +1,775 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"update",
+				"update_attributes"
+			],
+			[
+				"m",
+				"myChart"
+			],
+			[
+				"photo",
+				"photo_type"
+			],
+			[
+				"dar",
+				"darkpurple"
+			],
+			[
+				"mine",
+				"mine_id"
+			],
+			[
+				"SORTS",
+				"SORTS_ALL"
+			],
+			[
+				"work_",
+				"work_list_ids"
+			],
+			[
+				"user_",
+				"user_signed_in"
+			],
+			[
+				"work",
+				"work_items"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"wor",
+				"work_items"
+			],
+			[
+				"se",
+				"session"
+			],
+			[
+				"user",
+				"user_group_id"
+			],
+			[
+				"user_gr",
+				"user_group_id"
+			],
+			[
+				"lo",
+				"locked_by"
+			],
+			[
+				"markers",
+				"markersId"
+			],
+			[
+				"is_",
+				"is_superadmin"
+			],
+			[
+				"red",
+				"redMarker"
+			],
+			[
+				"cad",
+				"cadetblueMarker"
+			],
+			[
+				"blue",
+				"blueMarker"
+			],
+			[
+				"dargr",
+				"darkgreenMarker"
+			],
+			[
+				"pop",
+				"_popup_id"
+			],
+			[
+				"is",
+				"is_admin"
+			],
+			[
+				"mak",
+				"markers_main"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"resu",
+				"result_swift"
+			],
+			[
+				"result_aar",
+				"result_array_last"
+			],
+			[
+				"running",
+				"running_replications_pw"
+			],
+			[
+				"dail",
+				"daily_processed"
+			],
+			[
+				"resul",
+				"result_buy"
+			],
+			[
+				"pa",
+				"pain001"
+			],
+			[
+				"cam",
+				"camt054_status"
+			],
+			[
+				"ca",
+				"camt054_status"
+			],
+			[
+				"pain",
+				"pain008_status"
+			],
+			[
+				"camt",
+				"camt_054_status"
+			],
+			[
+				"result",
+				"result_camt_054"
+			],
+			[
+				"status",
+				"statuschecker_prd"
+			],
+			[
+				"check",
+				"checkers_sit"
+			],
+			[
+				"checke",
+				"checkers_uat"
+			],
+			[
+				"chec",
+				"checkers"
+			],
+			[
+				"luxitwebd830",
+				"luxitwebd8302"
+			],
+			[
+				"luxita",
+				"luxitappd8209"
+			],
+			[
+				"luxitappd",
+				"luxitappd8206"
+			],
+			[
+				"rsult",
+				"result_sums"
+			],
+			[
+				"result_last",
+				"result_last_6"
+			],
+			[
+				"reus",
+				"result_last_6"
+			],
+			[
+				"iks",
+				"iks_lux1"
+			],
+			[
+				"ik",
+				"iks_lux1"
+			],
+			[
+				"result_last_",
+				"result_last_6_backend"
+			],
+			[
+				"ad",
+				"ad_groups"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "source/pages/saegeblatt.html.erb",
+			"settings":
+			{
+				"buffer_size": 1679,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/pages/pressluft.html.erb",
+			"settings":
+			{
+				"buffer_size": 2522,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Projects/ruby/museum",
+		"/C/Projects/ruby/museum/source",
+		"/C/Projects/ruby/museum/source/layouts",
+		"/C/Projects/ruby/museum/source/pages"
+	],
+	"file_history":
+	[
+		"/C/Projects/ruby/museum.bak/html/veranstaltungen.html",
+		"/C/Projects/ruby/museum/source/index.html.erb",
+		"/C/Projects/ruby/museum/source/pages/pressluft.html.erb",
+		"/C/Projects/ruby/museum/source/pages/saegeblatt.html.erb",
+		"/C/Projects/ruby/museum/source/stylesheets/my.css",
+		"/C/Projects/ruby/museum/source/layouts/layout.erb",
+		"/C/Projects/ruby/museum.bak/html/bw/infozentrum.html",
+		"/C/Projects/ruby/museum/source/stylesheets/swipebox.min.css",
+		"/C/Projects/ruby/museum/source/stylesheets/jquery.mobile-1.4.5.min.css",
+		"/C/Projects/ruby/museum/source/stylesheets/BW_Theme.min.css",
+		"/C/Projects/ruby/museum/source/stylesheets/BW_Theme.css",
+		"/C/Projects/ruby/museum/index.html",
+		"/C/Projects/ruby/NOM/stat_08.txt",
+		"/C/Projects/ruby/NOM/stat_10.txt",
+		"/C/Projects/ruby/NOM/create_statistic.rb",
+		"/C/Projects/ruby/NOM/nom_files_to_csv.rb",
+		"/C/Projects/ruby/NOM/results_20151217/output.11.txt",
+		"/C/Projects/ruby/NOM/results_20151217/create_statistic.rb",
+		"/T/Schmitt/BizTalk/Stop_ReceiveLocations_03_PRD.ps1",
+		"/T/Schmitt/BizTalk/DWS.B2B.IAM.Transfer.ZUR.BindingInfo.xml",
+		"/T/Schmitt/BizTalk/DWS.B2B.IAM.Transfer.NOM.GER.BindingInfo.xml",
+		"/T/Schmitt/BizTalk/DWS.B2B.IAM.Transfer.MainframeMail.GER.BindingInfo.xml",
+		"/T/Schmitt/BizTalk/DWS.B2B.IAM.Transfer.MainframeMail.LUX.BindingInfo.xml",
+		"/T/Schmitt/BizTalk/DWS.B2B.IAM.Transfer.NOM.LUX.BindingInfo.xml",
+		"/T/Schmitt/BizTalk/DWS.B2B.IAM.Transfer.NOM.BindingInfo.xml",
+		"/T/Schmitt/BizTalk/DWS.B2B.IAM.Transfer.MainframeMail.BindingInfo.xml",
+		"/T/Schmitt/BizTalk/readme.txt",
+		"/T/Schmitt/BizTalk/BindingMainframMail.xml",
+		"/T/Schmitt/BizTalk/BindingNOM.xml",
+		"/C/Projects/ruby/World_Of_Mines/Gemfile",
+		"/C/Projects/ruby/World_Of_Mines/app/views/gps_files/index.html.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/helpers/gps_files_helper.rb",
+		"/C/Projects/ruby/World_Of_Mines/scripts/hoehlen-brasilien.kml",
+		"/C/Projects/ruby/World_Of_Mines/app/controllers/gps_files_controller.rb",
+		"/C/Projects/ruby/World_Of_Mines/db/migrate/20160209201820_remove_skipped_entries_to_mines.rb",
+		"/C/Projects/ruby/World_Of_Mines/db/migrate/20160209201227_add_skipped_entries_to_mines.rb",
+		"/home/roland/projects/world_of_mines/app/views/devise/sessions/new.html.erb",
+		"/home/roland/projects/world_of_mines/app/views/mines/_edit.html.erb",
+		"/home/roland/projects/world_of_mines/app/views/mines/map.html.erb",
+		"/home/roland/projects/world_of_mines/app/controllers/mines_controller.rb",
+		"/home/roland/projects/world_of_mines/config/initializers/devise.rb",
+		"/home/roland/projects/world_of_mines/app/models/user.rb",
+		"/home/roland/projects/world_of_mines/db/migrate/20160107215133_add_unique_session_id_to_user.rb",
+		"/home/roland/projects/world_of_mines/Gemfile",
+		"/home/roland/projects/world_of_mines/app/views/mines/index.html.erb",
+		"/home/roland/projects/world_of_mines/app/helpers/gps_files_helper.rb",
+		"/home/roland/projects/world_of_mines/app/controllers/users_controller.rb",
+		"/home/roland/projects/world_of_mines/app/assets/javascripts/application.js",
+		"/home/roland/projects/world_of_mines/app/assets/stylesheets/leaflet-measure.css.erb",
+		"/home/roland/projects/world_of_mines/app/controllers/user_notes_controller.rb",
+		"/home/roland/projects/world_of_mines/app/views/mines/_mine_table_row.html.erb",
+		"/C/Projects/ruby/world_of_mines/app/views/mines/_kill.js.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/views/mines/_mine_table.html.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/views/mines/paperbin.html.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/views/mines/_mine_table_row.html.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/controllers/mines_controller.rb",
+		"/C/Projects/ruby/World_Of_Mines/config/routes.rb",
+		"/C/Projects/ruby/World_Of_Mines/app/views/mines/map.html.erb",
+		"/C/Projects/ruby/world_of_mines/app/views/mines/paperbin.html.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/views/mines/index.html.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/views/mines/_edit.html.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/views/mines/_new.html.erb",
+		"/C/Projects/ruby/world_of_mines/app/views/mines/index.html.erb",
+		"/C/Projects/ruby/world_of_mines/app/views/mines/search.js.erb",
+		"/C/Projects/ruby/world_of_mines/app/views/mines/update_work_list.js.erb",
+		"/C/Projects/ruby/world_of_mines/app/views/mines/work_list.html.erb",
+		"/C/Projects/ruby/world_of_mines/app/views/orders/show.html.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/views/layouts/application.html.erb",
+		"/C/Projects/ruby/World_Of_Mines/db/migrate/20151130093041_add_deleted_to_mines.rb",
+		"/C/Projects/ruby/World_Of_Mines/db/migrate/20151113105751_add_photo_type_to_photos.rb",
+		"/C/Projects/ruby/World_Of_Mines/app/views/devise/sessions/new.html.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/controllers/statistics_controller.rb",
+		"/C/Projects/ruby/World_Of_Mines/app/views/statistics/index.html.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/assets/javascripts/application.js",
+		"/C/Projects/ruby/World_Of_Mines/app/views/mines/work_list.html.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/assets/stylesheets/my.css.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/views/statistic/index.html.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/controllers/statistic_controller.rb",
+		"/C/Projects/ruby/World_Of_Mines/app/helpers/mines_helper.rb",
+		"/C/Projects/ruby/World_Of_Mines/app/models/user.rb",
+		"/C/Projects/ruby/tools/PruneCluster-master/README.md",
+		"/C/Projects/ruby/World_Of_Mines/app/views/mines/map_new.html.erb",
+		"/C/Projects/ruby/world_of_mines/app/views/mines/map_new.html.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/views/documents/_document.html.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/views/documents/index.html.erb",
+		"/C/Projects/ruby/world_of_mines/app/views/documents/create.js.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/controllers/documents_controller.rb",
+		"/C/Projects/ruby/World_Of_Mines/app/models/document.rb",
+		"/C/Projects/ruby/World_Of_Mines/app/uploaders/gps_file_uploader.rb",
+		"/C/Projects/ruby/World_Of_Mines/app/uploaders/document_uploader.rb",
+		"/C/Projects/ruby/world_of_mines/app/views/documents/destroy.html.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/controllers/photos_controller.rb",
+		"/C/Projects/ruby/World_Of_Mines/db/migrate/20151113135323_create_documents.rb",
+		"/C/Projects/ruby/world_of_mines/app/controllers/documents_controller.rb",
+		"/C/Projects/ruby/world_of_mines/app/views/documents/index.html",
+		"/C/Projects/ruby/world_of_mines/app/views/documents/_document.html.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/views/mines/_photos.html.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/views/photos/create.js.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/models/mine.rb",
+		"/C/Projects/ruby/World_Of_Mines/app/models/photo.rb",
+		"/C/Projects/ruby/World_Of_Mines/app/models/order.rb",
+		"/C/Projects/ruby/World_Of_Mines/app/controllers/orders_controller.rb",
+		"/C/Projects/ruby/World_Of_Mines/app/mailers/order_mailer.rb",
+		"/C/Projects/ruby/World_Of_Mines/app/views/orders/index.html.erb",
+		"/C/Projects/ruby/world_of_mines/app/helpers/orders_helper.rb",
+		"/C/Projects/ruby/World_Of_Mines/app/views/order_mailer/send_order.html.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/views/order_mailer/send_order.text.erb",
+		"/C/Projects/ruby/World_Of_Mines/config/environments/development.rb",
+		"/C/Projects/ruby/World_Of_Mines/app/controllers/application_controller.rb",
+		"/C/Projects/ruby/world_of_mines/app/controllers/orders_controller.rb",
+		"/C/Projects/ruby/World_Of_Mines/config/environments/production.rb",
+		"/C/Projects/ruby/World_Of_Mines/config/application.rb",
+		"/C/Projects/ruby/world_of_mines/app/views/order_mailer/send_order.html.erb",
+		"/C/Projects/ruby/world_of_mines/app/views/order_mailer/send_order.text.erb",
+		"/C/Projects/ruby/world_of_mines/app/views/orders/index.html.erb",
+		"/C/Projects/ruby/world_of_mines/app/views/orders/destroy.js.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/models/order_detail.rb",
+		"/C/Projects/ruby/World_Of_Mines/db/migrate/20151111131306_create_orders.rb",
+		"/C/Projects/ruby/World_Of_Mines/db/migrate/20151111131338_create_order_details.rb",
+		"/C/Projects/ruby/World_Of_Mines/app/views/users/index.html.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/assets/javascripts/my.js",
+		"/C/Projects/ruby/World_Of_Mines/app/views/mines/create.js.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/views/mines/updateajax.js.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/views/photos/_photo.html.erb",
+		"/C/Projects/ruby/World_Of_Mines/app/views/photos/index.html.erb",
+		"/C/Projects/ruby/world_of_mines/app/views/photos/create.js.erb",
+		"/C/Projects/ruby/world_of_mines/app/views/mines/edit.js.erb",
+		"/C/Projects/ruby/world_of_mines/app/views/mines/_edit.html.erb"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Projects\\ruby\\museum\\source",
+			"C:\\Projects\\ruby\\museum\\source\\javascripts",
+			"C:\\Projects\\ruby\\world_of_mines\\app\\",
+			"C:\\Projects\\ruby\\world_of_mines\\app\\views",
+			"C:\\Projects\\ruby\\world_of_mines\\app",
+			"C:\\Projects\\ruby\\World_Of_Mines\\app\\assets",
+			"C:\\Projects\\ruby\\World_Of_Mines\\app\\",
+			"C:\\Projects\\ruby\\World_Of_Mines\\app\\views",
+			"C:\\Projects\\ruby\\World_Of_Mines\\app\\",
+			"C:\\Projects\\ruby\\World_Of_Mines\\app\\views",
+			"C:\\Projects\\ruby\\World_Of_Mines\\app\\",
+			"C:\\Projects\\ruby\\World_Of_Mines\\app\\views",
+			"C:\\Projects\\ruby\\World_Of_Mines\\app\\",
+			"C:\\Projects\\ruby\\WorldOfMines\\app\\",
+			"C:\\Projects\\ruby\\WorldOfMines\\app\\views",
+			"C:\\Projects\\ruby\\WorldOfMines\\app",
+			"C:\\Projects\\ruby\\worldofmines\\app\\",
+			"C:\\Projects\\ruby\\rails-schnitzeljagd\\app\\",
+			"C:\\Projects\\ruby\\rails-schnitzeljagd\\app\\assets",
+			"C:\\Projects\\ruby\\rails-schnitzeljagd\\app\\views",
+			"C:\\Projects\\ruby\\rails-schnitzeljagd\\app",
+			"C:\\Projects\\ruby\\BigBrother\\app\\",
+			"C:\\Projects\\ruby\\BigBrother\\app\\models",
+			"C:\\Projects\\ruby\\BigBrother\\app\\",
+			"C:\\Projects\\ruby\\BigBrother\\app\\views",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"icons.png",
+			"icons.svg",
+			"icons",
+			"loader.gif",
+			"ajax-loader",
+			"\\\\luxpisps14\\prod_ger_reports$",
+			"\\\\luxpappg34.lu.db.com\\data$\\01\\",
+			"\\\\luxpisps14\\prod_lux_reports$\\",
+			"\\\\luxpappl34.lu.db.com",
+			"lux",
+			"\\*.*",
+			"\\\\luxpisps14\\prod_dbv_reports$\\",
+			"\\\\luxpisps14\\prod_dbv_reports$\\ERROR",
+			"\\\\luxpappv34.lu.db.com\\data$\\08",
+			"ABX.DBV.",
+			"strftime",
+			"search",
+			"submit_tag",
+			"glyphicons",
+			"/*",
+			"popover",
+			"popup",
+			"strftime",
+			"popover",
+			".count",
+			"geocoder.png",
+			"darkpurple",
+			"darkpurpleMarker",
+			"options_for_select",
+			"options_for",
+			"work_list",
+			"session[",
+			"index",
+			"remote",
+			"is_work_item?",
+			"partial",
+			"strftim",
+			"inline",
+			"button",
+			"updateajax",
+			"createajax",
+			"is_admin",
+			"is_superadmin",
+			".nil",
+			"mine",
+			"update_attributes",
+			"update",
+			"update_para",
+			"link_to",
+			"search",
+			"controller",
+			"ma",
+			"fancybox",
+			"World of",
+			"L.Icon.Default.imagePath",
+			"fancybox",
+			"fanybox",
+			"%>\n",
+			"entries",
+			"class=\"notice",
+			"partial",
+			"layer",
+			"Layer",
+			"layers.png",
+			"hover",
+			"#668c3f",
+			"18778c",
+			"#09516d",
+			"#0b688c",
+			"#668C3F",
+			"losu",
+			"urkund",
+			"10:00",
+			"HM",
+			"höhenm",
+			"wer gewinn",
+			"www.bergwerk",
+			"Bergwerk",
+			"km",
+			"icon_top",
+			"icon_tap",
+			"assets",
+			"glyphicons",
+			"asset_path",
+			"Halflings",
+			"glyph",
+			"/images",
+			"/image",
+			"OnUnload",
+			"order",
+			"+++",
+			"repli",
+			"iam2000_pw_10_deve",
+			"iam2000_pw_10",
+			"iam2000_pw_11",
+			"IAM2000_PW_24",
+			"iam2000_db_pw",
+			"][\"",
+			"running_replications_pw",
+			"FOUNDXXXX",
+			"replications",
+			"replicat",
+			"error",
+			"series:",
+			"statistic_paramspw",
+			"AVG_CALL_DURATION_BACKEND_PW",
+			"].",
+			"://luxshdbdws19005:1356;databaseName=IAM2000_DBPartner",
+			"IAM2000_DBPin_",
+			"_PW_",
+			"_PW_92",
+			"://luxshdbdws29005:1470;databaseName=IAM2000_DBPartner_08",
+			"://luxshdbdws29005:1470;databaseName=IAM2000_DBPartner_09",
+			"://luxshdbdws29005:1470;databaseName=IAM2000_DBPartner_03",
+			"://luxshdbdws19005:1356;databaseName=IAM2000_DBPartner_10",
+			"://luxshdbdws19005:1356;databaseName=IAM2000_DBPartner_01",
+			"strftime",
+			"class",
+			"strftime",
+			"#96A61F",
+			"96a61f",
+			"prepare_sessions_last_6",
+			"prepare_avg_call_duration_pw",
+			"_development",
+			"pool: 1000",
+			"com.microsoft.sqlserver.jdbc.SQLServerDriver",
+			";integratedSecurity=true;",
+			";databaseName="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\\\luxpisps14\\prod_ger_reports$\\",
+			"\\\\luxpappg34.lu.db.com",
+			"\\1234.xyz",
+			"\\\\luxpisps14\\prod_lux_reports$\\",
+			"\\\\luxpisps14\\prod_lux_reports$\\ERROR",
+			"\\\\luxpappl34.lu.db.com\\data$\\03",
+			"ABX.LUX.",
+			"003D7C",
+			"#003D7C",
+			"#AFCA0B",
+			"asset-url",
+			"://luxpsqll27\\iks_biz;databaseName=IAM2000_DBPartner",
+			"://luxpsqll26\\iks_vita;databaseName=IAM2000_DBPartner_08",
+			"://luxpsqlg14\\iks_ger;databaseName=IAM2000_DBPartner_09",
+			"://luxpsqll24\\iks_lux1;databaseName=IAM2000_DBPartner_03",
+			"://luxpsqll25\\iks_lux2;databaseName=IAM2000_DBPartner_10",
+			"://luxpsqlg14\\iks_ger;databaseName=IAM2000_DBPartner_01",
+			"_production",
+			"pool: 50",
+			"net.sourceforge.jtds.jdbc.Driver",
+			"",
+			"/",
+			"jdbc:jtds:sqlserver://",
+			"_production",
+			"<div class=\"form-group\">",
+			"'glyphicon glyphicon-refresh",
+			"col-md-4",
+			"btn btn-default",
+			"row",
+			"col-md-10\"",
+			"col-md-2\"",
+			"col-md-8\"",
+			"col-md-6\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source/pages/saegeblatt.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								186,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/pages/pressluft.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								790,
+								790
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 264.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "museum.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Projects\\ruby\\Ergo\\Ergo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,53 @@
+<div data-role="navbar" data-iconpos="top">
+    <ul>
+        <li><a data-rel="back" data-transition="slide" href="../index.html" data-icon="arrow-l">Zur&uuml;ck</a></li>
+    </ul>
+</div>
+
+<div role="main" class="ui-content">
+    <h3 class="ui-bar ui-bar-a ui-corner-all">Pressluft</h3>
+    <p>Ab ca. 1890 wurden im Feller Bergbau auch Presslufthämmer zum Abbau eingesetzt. Dies erleichterte den Bergleuten die schwere Arbeit, jedoch stellte der zusätzliche Lärm eine andere Belastung dar. Mit den Presslufthämmern konnte der Vortrieb neuer Stollen wesentlich beschleunigt werden.</p>
+    <div class="center-wrapper">
+        <a href="/images/pressluft/pressluft1.jpg" class="swipebox">
+            <img src="/images/pressluft/pressluft1.jpg" class="ui-li-thumb image-thumb"/>
+        </a>  
+    </div>
+
+    <p>Das Bohren von Sprenglöchern ging mit den neuen Bohreren wesentlich schneller. Wo früher drei Bergleute für ein Sprengloch einen halben Tag benötigten, war dies mit den neuen Maschinen innerhalb weniger Minuten erledgt.</p>
+    <div class="center-wrapper">
+        <a href="/images/pressluft/pressluft2.jpg" class="swipebox">
+            <img src="/images/pressluft/pressluft2.jpg" class="ui-li-thumb image-thumb" />
+        </a>
+    </div>
+
+    <p>Die benötigte Pressluft wurde zentral in den Maschinenhäusern erzeugt mit von dort durch Eisenrohren, die sogenannten "Lutten", in die einzelnen Stollen transportiert. Diese Rohre kann man am Rand des Schiefer-Wacken-Weges noch heute entdecken!</p>
+    <div class="center-wrapper">
+        <a href="/images/pressluft/pressluft5.jpg" class="swipebox">
+            <img src="/images/pressluft/pressluft5.jpg" class="ui-li-thumb image-thumb" />
+        </a>      
+
+        <a href="/images/pressluft/pressluft3.jpg" class="swipebox">
+            <img src="/images/pressluft/pressluft3.jpg" class="ui-li-thumb image-thumb" />
+        </a>      
+
+        <a href="/images/pressluft/pressluft4.jpg" class="swipebox">
+            <img src="/images/pressluft/pressluft4.jpg" class="ui-li-thumb image-thumb" />
+        </a>      
+    </div>
+
+</div>
+
+<script>
+    $(document).on("pagecreate",function(){
+        $('.swipebox').swipebox();
+        $(".photopopup").on({
+            popupbeforeposition: function() {
+                var maxHeight = $(window).height() - 60 + "px";
+                $(".photopopup img").css("max-height",maxHeight);
+            }
+        });            
+    });
+</script>
+<script type="text/javascript">
+    $(".popphoto").panzoom();
+</script> 
