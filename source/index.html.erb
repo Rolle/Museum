@@ -2,7 +2,7 @@
 
     <form id="goto" action="" method="">
         <label for="numbertag" style="text-align: center">Station:</label>
-        <input id="numbertag" name="numbertag" type="text" value="" placeholder="Station" autocomplete="off">                        
+        <input id="numbertag" name="numbertag" type="text" value="" placeholder="Station" autocomplete="off" style="text-align: center">                        
         <button class="ui-btn ui-icon-navigation ui-btn-icon-left ui-corner-all" type="submit">Anzeigen</button>
     </form>
 
@@ -50,5 +50,8 @@
             }
 
         });
+    });
+    $(document).on("pagecreate",function(){
+        $('#numbertag')[0].value = "";
     });
 </script>
