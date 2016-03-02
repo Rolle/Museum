@@ -1,15 +1,23 @@
 <div role="main" class="ui-content" data-role="content">
 
     <form id="goto" action="" method="">
-        <label for="numbertag" style="text-align: center">Station:</label>
+        <!--<label for="numbertag" style="text-align: center">Station:</label>-->
         <input id="numbertag" name="numbertag" type="text" value="" placeholder="Station" autocomplete="off" style="text-align: center">                        
-        <button class="ui-btn ui-icon-navigation ui-btn-icon-left ui-corner-all" type="submit">Anzeigen</button>
+        <button class="ui-btn ui-icon-location ui-btn-icon-top" type="submit">Anzeigen</button>
     </form>
 
 </div>
 
+
+
 <div data-role="footer" data-position="fixed">
-        <a class="ui-btn ui-icon-info ui-btn-icon-left ui-corner-all" data-rel="popup" data-position-to="window" href="#popupDialogHilfe">Hilfe</a>
+    <div data-role="navbar" data-iconpos="top">
+        <ul>
+            <li>
+                <a class="ui-btn ui-icon-info" data-rel="popup" data-icon="info" data-position-to="window" href="#popupDialogHilfe">Hilfe</a>
+            </li>
+        </ul>
+    </div>
 </div>
 
 <div data-role="popup" id="popupDialogHilfe" data-dismissible="false" style="max-width:400px;">
@@ -17,17 +25,17 @@
         <h1>Hilfe</h1>
     </div>
     <div role="main" class="ui-content">
-        <h3 class="ui-title">In dem Eingabefeld können die Markierungen auf den QR-Codes. Dadurch gelangt man zu der entsprechenden Seite mit weiteren Informationen. </h3>
+        <h3 class="ui-title">In dem Eingabefeld können die Zahlen auf den QR-Codes eingegeben werden. Dadurch gelangt man zu der entsprechenden Seite mit weiteren Informationen. </h3>
         <a href="#" class="ui-btn ui-corner-all ui-btn-inline" data-rel="back">OK</a>
     </div>
 </div>
 
 <div data-role="popup" id="popupDialog" data-dismissible="false" style="max-width:400px;">
     <div data-role="header">
-        <h1>Unbekannte Nummer!</h1>
+        <h1>Nummer unbekannt!</h1>
     </div>
     <div role="main" class="ui-content">
-        <h3 class="ui-title">Die eingegebene Stations-Nummer konnte nicht gefunden werden!</h3>
+        <h3 class="ui-title">Die eingegebene Nummer konnte nicht gefunden werden!</h3>
         <a href="#" class="ui-btn ui-corner-all ui-btn-inline" data-rel="back">OK</a>
     </div>
 </div>
